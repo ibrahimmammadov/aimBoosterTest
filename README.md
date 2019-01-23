@@ -1,4 +1,4 @@
-# aimBoosterTest V0.1
+# aimBoosterTest v0.1
 
 
 ### The following project is still under development.
